@@ -1,0 +1,3 @@
+include ':extension-pack'
+include ':app'
+rootProject.name = "ExtensionPack"
